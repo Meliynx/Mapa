@@ -1,0 +1,74 @@
+/*Aqui tenemos el tipo de region natural que es y su informacion basica para la pagina*/
+.container{
+    display: flex;
+    flex-direction: row;
+    align-content: centers;
+
+}
+#bosque{ background-color:green;
+    width: 100px;
+    height: 100px;}
+
+#mar{ background-color: blue;
+    width: 100px;
+    height: 100px;}
+
+#desierto{ background-color: sandybrown;
+    width: 100px;
+    height: 100px;} 
+
+#jungla{ background-color: seagreen;
+    width: 100px;
+    height: 100px;}
+
+#pantano{ background-color: darkolivegreen;
+    width: 100px;
+    height: 100px;}
+
+#planicie{ background-color: greenyellow;
+    width: 100px;
+    height: 100px;}
+
+#estepa{ background-color: peru;
+    width: 100px;
+    height: 100px;}
+
+#glaciar{ background-color: lightblue;
+    width: 100px;
+    height: 100px;}
+
+#tundra{ background-color: cornflowerblue;
+    width: 100px;
+    height: 100px;}
+
+#cementerio{ background-color: darkslategray;
+    width: 100px;
+    height: 100px;}
+
+#magma{ background-color: darkred;
+    width: 100px;
+    height: 100px;}
+
+#magia{ background-color: hotpink;
+    width: 100px;
+    height: 100px;}
+
+#levite{ background-color: aquamarine;
+    width: 100px;
+    height: 100px;}
+
+#biolum{ background-color: deepskyblue;
+    width: 100px;
+    height: 100px;}
+
+#tecnologia{ background-color: yellowgreen;
+    width: 100px;
+    height: 100px;}
+
+#basurero{ background-color: darkgoldenrod;
+    width: 100px;
+    height: 100px;}
+
+#montanas{ background-color: saddlebrown;
+    width: 100px;
+    height: 100px;}
